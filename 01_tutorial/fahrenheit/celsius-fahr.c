@@ -2,7 +2,6 @@
 
 /* print Celsius-Fahrenheit table
     for celsius = -30, -18, ... 150 */
-
 main()
 {
     float fahr, celsius;
